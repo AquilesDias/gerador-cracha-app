@@ -1,0 +1,15 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 5%;
+  }
+  
+.card h1{
+    text-align: center;
+}
+
+.p-float-label {
+    margin-bottom: 25px;
+}
+
